@@ -5,7 +5,7 @@ Baby Gender Reveal Badge
 
 This project was used at a friend's baby gender reveal party. The idea was to wear the an electronic badge that played teaser videos until a button on the badge is pressed to reveal the gender of the baby. 
 
-See xxxx for more high level details on the project and a demo video.
+See [Hackster](https://www.hackster.io/david-strong/baby-gender-reveal-badge-955c8a) for more high level details on the project and a demo video.
 
 ## How to build
 
