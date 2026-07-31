@@ -15,12 +15,13 @@ M5Stack have a great getting started guide, for Arduino IDE, here https://docs.m
 
 To build:
 
-1. Flash the Atom S3R with the src/server sketch.
-2. Format an SD Card for FAT32. Use the largest allocation block size the card will allow, as this improves read peformance.
-3. Copy all the *.MJP files from the videos folder to the SD Card.
-4. Insert the SD Card into the Atomic TF Card Reader.
-5. Connect the Atom S3R and the Atomic TF Card Reader.
-6. Flash the Stopwatch with the src/client sketch.
-7. Power on the Atom S3R.
-8. Power on the Stopwatch. The Stopwatch will display a 5 second countdown, when it is connected to the server.
+1. Start the Arduino IDE and install the Async TCP library by ESP32Async.
+2. Flash the Atom S3R with the src/server sketch.
+3. Format an SD Card for FAT32. Use the largest allocation block size the card will allow, as this improves read peformance.
+4. Copy all the *.MJP files from the videos folder to the SD Card.
+5. Insert the SD Card into the Atomic TF Card Reader.
+6. Connect the Atom S3R and the Atomic TF Card Reader.
+7. Flash the Stopwatch with the src/client sketch.
+8. Power on the Atom S3R.
+9. Power on the Stopwatch. The Stopwatch will display a 5 second countdown, when it is connected to the server.
 
